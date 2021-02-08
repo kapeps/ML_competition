@@ -1,9 +1,9 @@
-# Robot-explorateur-
-Robot fait pour la exploration autonome ou semi-autonome d’un bâtiment pour vérifier la présence de personnes.Peut être pour des objectifs divers, par exemple : 
-    
-    *Vérification de la bonne évacuation de toutes les personnes 
-    
-    *Vérification du respect des conditions sanitaires  
+How to understand our code:
 
-Dans un premier temps, le projet a pour but de développer une plateforme modulaire qui servira de base pour la suite.
-![alt text](https://wdi.centralesupelec.fr/boulanger/downloads/Projets/Romi2020.png)
+    *To run the whole pipeline, use our file pipeline.py
+    *To change individual algorithms of the pipeline, use its respective method .py file
+    *To change the Feature engineering and selection, use the feature_creator.py file
+
+
+![Our pipeline model](/images/pipeline.png)
+
