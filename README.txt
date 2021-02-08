@@ -5,3 +5,4 @@ How to understand our code:
 >To change the Feature engineering and selection, use the feature_creator.py file
 
 
+![Our pipeline model](/images/pipeline.png)
